@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <div>
   <h1>Full Stack Developer</h1>
   <h2>
-    <a href="http://youtube.com/c/ansondevacademy">YouTube Channel</a>
+    <a href="http://youtube.com/c/anson4k">YouTube Channel</a>
   </h2>
 </div>
